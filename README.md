@@ -1,7 +1,6 @@
 <a href="https://i.pinimg.com/originals/05/9d/5d/059d5d88f262e1b9a2db527111e89426.gif"><img src="https://github.com/Mika3lb/Mika3lb/blob/main/B.gif" alt="Berserk" style="width:auto; height:auto"/></a>
 <div align="center">
 	<h1> 🍁 <b><i> Hello I'm Mikael </i></b>🍁  </h1>
-	<hr>
 	🍁 I strive to cover all areas of programming. On the way to creating something revolutionary🍁 
 	<hr>
 </div>

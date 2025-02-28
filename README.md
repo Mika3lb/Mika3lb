@@ -27,6 +27,6 @@
 <h3 align="center">⚡ Github Status</h3>
 <br>
 <div align="center">
-	<img width="500" src="https://github-readme-stats.vercel.app/api?username=Mika3lb&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=35"/>
+	<img width="500" src="https://github-readme-stats.vercel.app/api?username=Mika3lb&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=35"/>
 </div>
 <a href="https://i.pinimg.com/originals/06/a8/5b/06a85b703ccc50fcc2214bac56214f48.gif"><img src="https://github.com/Mika3lb/Mika3lb/blob/main/DF.gif" alt="Dark Fantasy" style="width:auto; height:auto"/></a>
